@@ -1,2 +1,2 @@
 # YOLOv4-Tutorial(on Windows)
-## pre-processing(前置作業)
+## 超強darknet建置手冊 一次就懂
